@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "CreativeSMP-wyz.aternos.me",
+    "port": 48858,
     "version": "",
     "try-creative": false
   },
